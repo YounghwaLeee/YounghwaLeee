@@ -1,4 +1,7 @@
-### Hi there 👋
+### 안녕하세요 👋
+안녕하세요. 풀스택 개발자를 꿈꾸는 이영화 입니다. 
+
+
 
 <!--
 **YounghwaLeee/YounghwaLeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
