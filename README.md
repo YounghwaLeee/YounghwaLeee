@@ -1,5 +1,5 @@
 ### 안녕하세요 👋
-안녕하세요. 예비 풀스택 개발자 이영화 입니다. 
+안녕하세요. 신입 풀스택 개발자 이영화 입니다. 
 
 프로필 - https://younghwaleee.github.io/</br>
 블로그 - https://blog.naver.com/lyh4671
