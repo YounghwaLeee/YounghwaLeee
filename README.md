@@ -2,7 +2,7 @@
 안녕하세요. 신입 풀스택 개발자 이영화 입니다. 
 
 프로필 - https://younghwaleee.github.io/</br>
-블로그 - https://blog.naver.com/lyh4671
+<!--블로그 - https://blog.naver.com/lyh4671-->
 
 <!-- username 아이디 넣기!! git 상태 보여주는거-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YounghwaLeee&show_icons=true&theme=dracula)<br/>
